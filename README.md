@@ -1,4 +1,5 @@
-## Hi there 👋
+## 제 삶은 이상하고 별나지만, 가치있고 아름답습니다.
+
 
 <!--
 **zergswim/zergswim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
